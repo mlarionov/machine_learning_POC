@@ -1,4 +1,9 @@
-# machine_learning_POC
-The repository for various machine learning POC
+# Welcome to my personal machine learning projects
+The repository for various machine learning projects, all of them in the POC phase. For some of them I may write an open source library, but it will be in a different repo
 
-These models are available here:
+The projects completed so far are:
+* Agile Estimation
+* Debiasing Impuration
+* Employee Attrition
+* Rasch Model
+* Unit Tests
