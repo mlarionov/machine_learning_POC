@@ -7,5 +7,6 @@ The projects completed so far are:
 * Debiasing Impuration
 * Employee Attrition
 * Rasch Model
+* Regularization
 * Spectral Analysis
 * Unit Tests
